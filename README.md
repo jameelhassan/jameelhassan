@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on vision-language models for visual understanding
+- 📫 Reach me at: jameel.hassan@mbzuai.ac.ae
+
 <!--
 **jameelhassan/jameelhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
