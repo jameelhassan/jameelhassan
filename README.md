@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on vision-language models for visual understanding
+- 🔭 I’m currently working on improving lidar perception using image foundation models, for autonomous driving.
 - 📫 Reach me at: jabduls2@jhu.edu
 
 <!--
