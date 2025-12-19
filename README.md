@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving lidar perception using image foundation models, for autonomous driving.
+- 🔭 I’m currently working on distilling knowledge from 2D image foundation models for 3D representation learning.
 - 📫 Reach me at: jabduls2@jhu.edu
 
 <!--
